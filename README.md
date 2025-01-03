@@ -15,22 +15,25 @@
 
 <details>
 	
-<summary>2025-01-02</summary>
+<summary>2025-01-03</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 김지혜      | How to Learn JavaScript in 2025 | [Link](#)     | 핵심 개념을 알기 쉽게 설명한 좋은 입문 자료. |
+| 김지혜      | Optimizing React Performance: Strategies to Avoid Unnecessary Re-Renders | [Link]([https://medium.com/stackademic/stop-overusing-console-log-heres-why-and-better-alternatives-e5e05ea69e75](https://medium.com/javascript-in-plain-english/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2))     | 렌더링 빈도 줄이는 방법 [추가 요약]([https://kzh4295.tistory.com/43]) |
+| 김지혜      | A Guide to Building Reusable React Components | [Link]([https://medium.com/@lbq999/why-netflix-shifted-from-react-to-vanilla-javascript-be5a479ca14e](https://medium.com/@rashmipatil24/reusable-react-components-7b025f232ca4))     | 재사용 가능한 컴포넌트 |
 | 임성규      | The Future of Kotlin          | [Link](#)     | Kotlin의 가능성을 새롭게 느낀 유익한 글. |
 </details>
 
 <details>
 	
-<summary>2025-01-03</summary>
+<summary>2025-01-02</summary>
 
 | **참여자** | **기사 제목**                   | **링크**       | **한 줄 평**                      |
 |------------|---------------------------------|---------------|-----------------------------------|
 | 홍길동      | Effective Remote Work Strategies | [Link](#)     | 리모트 근무 생산성 팁이 실용적이었다. |
 | 김철수      | Introduction to Machine Learning | [Link](#)     | 초심자에게 적합한 ML 개요를 잘 제공. |
+| 김지혜      | Stop Overusing Console.log! Here's Why 🚫 (And Better Alternatives) | [Link](https://medium.com/stackademic/stop-overusing-console-log-heres-why-and-better-alternatives-e5e05ea69e75)     | console.log -> dir / clear / group - groupEnd / table / time - timeEnd  사용하여 파편화된 디버깅이 아닌 그룹화 또는 명확하여야한다 [추가 요약]([https://kzh4295.tistory.com/42]) |
+| 김지혜      | Why Netflix Shifted from React to Vanilla JavaScript | [Link](https://medium.com/@lbq999/why-netflix-shifted-from-react-to-vanilla-javascript-be5a479ca14e)     | 넷플릭스에서 2017부터 정적인 페이지는 React -> vanillJS로 이관 중 |
 </details>
 
 ## ✅ 참고 사항
