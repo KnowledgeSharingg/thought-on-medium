@@ -21,7 +21,7 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 김지혜      | Optimizing React Performance: Strategies to Avoid Unnecessary Re-Renders | [Link](https://javascript.plainenglish.io/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2)     | 렌더링 빈도 줄이는 방법 [추가 요약](https://kzh4295.tistory.com/43) |
 | 김지혜      | A Guide to Building Reusable React Components | [Link](https://medium.com/@rashmipatil24/reusable-react-components-7b025f232ca4)     | 재사용 가능한 컴포넌트 |
-| 임성규      | The Future of Kotlin          | [Link](#)     | Kotlin의 가능성을 새롭게 느낀 유익한 글. |
+| 임성규      | Are you a software developer or a software engineer?          | [Link](https://medium.com/@stevebishop_89684/are-you-a-software-developer-or-a-software-engineer-60a975502037)     | software engineer는 과학적 원리, 원칙을 활용하며 소프트웨어를 디자인하고 기술적 전문성을 다지는 역할에 가까우며, developer는 소프트웨어를 관리하고 설계된 디자인을 실행하는 역할에 가깝다. |
 </details>
 
 <details>
