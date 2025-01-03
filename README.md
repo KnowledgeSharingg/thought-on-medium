@@ -19,7 +19,7 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 김지혜      | Optimizing React Performance: Strategies to Avoid Unnecessary Re-Renders | [Link](https://medium.com/stackademic/stop-overusing-console-log-heres-why-and-better-alternatives-e5e05ea69e75(https://medium.com/javascript-in-plain-english/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2)     | 렌더링 빈도 줄이는 방법 [추가 요약](https://kzh4295.tistory.com/43) |
+| 김지혜      | Optimizing React Performance: Strategies to Avoid Unnecessary Re-Renders | [Link](https://javascript.plainenglish.io/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2)     | 렌더링 빈도 줄이는 방법 [추가 요약](https://kzh4295.tistory.com/43) |
 | 김지혜      | A Guide to Building Reusable React Components | [Link](https://medium.com/@rashmipatil24/reusable-react-components-7b025f232ca4)     | 재사용 가능한 컴포넌트 |
 | 임성규      | The Future of Kotlin          | [Link](#)     | Kotlin의 가능성을 새롭게 느낀 유익한 글. |
 </details>
