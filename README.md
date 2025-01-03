@@ -32,7 +32,7 @@
 |------------|---------------------------------|---------------|-----------------------------------|
 | 홍길동      | Effective Remote Work Strategies | [Link](#)     | 리모트 근무 생산성 팁이 실용적이었다. |
 | 김철수      | Introduction to Machine Learning | [Link](#)     | 초심자에게 적합한 ML 개요를 잘 제공. |
-| 김지혜      | Stop Overusing Console.log! Here's Why 🚫 (And Better Alternatives) | [Link](https://medium.com/stackademic/stop-overusing-console-log-heres-why-and-better-alternatives-e5e05ea69e75)     | console.log -> dir / clear / group - groupEnd / table / time - timeEnd  사용하여 파편화된 디버깅이 아닌 그룹화 또는 명확하여야한다 [추가 요약]([https://kzh4295.tistory.com/42]) |
+| 김지혜      | Stop Overusing Console.log! Here's Why 🚫 (And Better Alternatives) | [Link](https://medium.com/stackademic/stop-overusing-console-log-heres-why-and-better-alternatives-e5e05ea69e75)     | console.log -> dir / clear / group - groupEnd / table / time - timeEnd  사용하여 파편화된 디버깅이 아닌 그룹화 또는 명확하여야한다 [추가 요약](https://kzh4295.tistory.com/42) |
 | 김지혜      | Why Netflix Shifted from React to Vanilla JavaScript | [Link](https://medium.com/@lbq999/why-netflix-shifted-from-react-to-vanilla-javascript-be5a479ca14e)     | 넷플릭스에서 2017부터 정적인 페이지는 React -> vanillJS로 이관 중 |
 </details>
 
