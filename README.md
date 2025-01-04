@@ -19,6 +19,16 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | Kotlin 2.0.0: A New Era in Kotlin Development          | [Link](https://halilozel1903.medium.com/kotlin-2-0-0-a-new-era-in-kotlin-development-14db8f6ec87c)     | kotliin2.0.0 메인 릴리즈에서 많은 것들이 발전했다. 최적화를 통해 컴파일러의 성능과 효율이 좋아졌으며 kotlin 기능중 일부인 kotlin multiplatform 기능이 강화됬다. 더많은 플랫폼과 타겟을 지원하여 kotlin multiplatform을 적용할 수 있게 되었으며, 다른 언어, 플랫폼과 상호운영성이 더 좋아져 기존 프로젝트에 적용시키는데 부담이 줄어들었다.  |
+
+</details>
+
+<details>
+	
+<summary>2025-01-03</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
 | 김지혜      | Optimizing React Performance: Strategies to Avoid Unnecessary Re-Renders | [Link](https://javascript.plainenglish.io/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2)     | 렌더링 빈도 줄이는 방법 [추가 요약](https://kzh4295.tistory.com/43) |
 | 김지혜      | A Guide to Building Reusable React Components | [Link](https://medium.com/@rashmipatil24/reusable-react-components-7b025f232ca4)     | 재사용 가능한 컴포넌트 |
 | 임성규      | Are you a software developer or a software engineer?          | [Link](https://medium.com/@stevebishop_89684/are-you-a-software-developer-or-a-software-engineer-60a975502037)     | software engineer는 과학적 원리, 원칙을 활용하며 소프트웨어를 디자인하고 기술적 전문성을 다지는 역할에 가까우며, developer는 소프트웨어를 관리하고 설계된 디자인을 실행하는 역할에 가깝다. |
