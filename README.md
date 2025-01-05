@@ -12,6 +12,17 @@
 	4.	주 1회 모든 참여자 리뷰 점검 후 토론 가능.
 
 ## 📝 리뷰 기록
+<details>
+	
+<summary>2025-01-06</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 김지혜      | Advanced React Patterns and Best Practices | [Link](https://medium.com/@rashmipatil24/advanced-react-patterns-and-best-practices-74cd09a7c2d9)     | 3가지 React 패턴 소개 [추가 요약](https://kzh4295.tistory.com/44) |
+| 김지혜      | You’re Using Context Providers the Wrong Way! Here’s How to Fix It | [Link](https://medium.devlander.com/youre-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828)     | Context Provider의 올바른 사용법 |
+| 임성규      | | | |
+| 임성규      | | | |
+</details>
 
 <details>
 	
