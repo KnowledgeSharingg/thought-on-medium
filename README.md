@@ -26,6 +26,16 @@
 
 <details>
 	
+<summary>2025-01-04</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | Kotlin 2.0.0: A New Era in Kotlin Development          | [Link](https://halilozel1903.medium.com/kotlin-2-0-0-a-new-era-in-kotlin-development-14db8f6ec87c)     | kotliin2.0.0 메인 릴리즈에서 많은 것들이 발전했다. 최적화를 통해 컴파일러의 성능과 효율이 좋아졌으며 kotlin 기능중 일부인 kotlin multiplatform 기능이 강화됬다. 더많은 플랫폼과 타겟을 지원하여 kotlin multiplatform을 적용할 수 있게 되었으며, 다른 언어, 플랫폼과 상호운영성이 더 좋아져 기존 프로젝트에 적용시키는데 부담이 줄어들었다.  |
+
+</details>
+
+<details>
+	
 <summary>2025-01-03</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
