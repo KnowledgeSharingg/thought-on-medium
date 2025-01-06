@@ -20,8 +20,8 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 김지혜      | Advanced React Patterns and Best Practices | [Link](https://medium.com/@rashmipatil24/advanced-react-patterns-and-best-practices-74cd09a7c2d9)     | 3가지 React 패턴 소개 [추가 요약](https://kzh4295.tistory.com/44) |
 | 김지혜      | You’re Using Context Providers the Wrong Way! Here’s How to Fix It | [Link](https://medium.devlander.com/youre-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828)     | Context Provider의 올바른 사용법 |
-| 임성규      | | | |
-| 임성규      | | | |
+| 임성규      | Using Rust at a startup: A cautionary tale | [Link](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454) | 필자의 경험을 토대로 rust를 스타트업에서 사용하는 것에 대해 반대하는 이유들 설명. (새로운 개념들에 대한 러닝커브 존재, 다른 언어에 비해 라이브러리와 지원 기능이 아직 부족한게 많아서 구현에 시간이 오래걸림.) 단 굉장이 높은 수준의 퍼포먼스를 요구하는 기능에 대해서 사용하는 것을 적극 추천. |
+| 임성규      | Which is the best, NestJS or Spring Boot? | [Link](https://medium.com/@raviyasas/which-is-the-best-nestjs-or-spring-boot-33393612790d) | nestjs vs spring |
 </details>
 
 <details>
