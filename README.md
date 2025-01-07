@@ -14,6 +14,18 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-07</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 김지혜      | |    |  |
+| 김지혜      | |      |  |
+| 임성규      | Push Notifications using SpringBoot and Firebase Cloud Messaging | [Link](https://medium.com/@rajdeepify/push-notifications-using-springboot-and-firebase-cloud-messaging-ad136746c57e) | spring boot, fcm 통해서 푸시 알림 전송하기. |
+| 임성규      | Being Productive as a Google Software Engineer | [Link](https://levelup.gitconnected.com/being-productive-as-a-google-software-engineer-aa0ca8260d7a) | 구글 소프트웨어 엔지니어로서 생산적이 되는 법. |
+</details>
+
+<details>
+	
 <summary>2025-01-06</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
