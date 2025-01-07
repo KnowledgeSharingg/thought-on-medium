@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 김지혜      | |    |  |
-| 김지혜      | |      |  |
+| 김지혜      | Boosting React.js Performance with Tree Shaking |  [Link](https://medium.com/nonstopio/boosting-react-js-performance-with-tree-shaking-ee77261d0c95)  | 트리 쉐이킹을 최소화하는 방안 [추가 요약](https://kzh4295.tistory.com/45) |
+| 김지혜      | The Future of Frontend Development: Key Skills to Hire for in 2025 |  [Link](https://medium.com/javascript-in-plain-english/the-future-of-frontend-development-key-skills-to-hire-for-in-2025-d62801ab4e8c)    | 2025 프런트앤드에서 각광받는 분야 소개 |
 | 임성규      | Push Notifications using SpringBoot and Firebase Cloud Messaging | [Link](https://medium.com/@rajdeepify/push-notifications-using-springboot-and-firebase-cloud-messaging-ad136746c57e) | spring boot, fcm 통해서 푸시 알림 전송하기. |
 | 임성규      | Being Productive as a Google Software Engineer | [Link](https://levelup.gitconnected.com/being-productive-as-a-google-software-engineer-aa0ca8260d7a) | 구글 소프트웨어 엔지니어로서 생산적이 되는 법. |
 </details>
