@@ -14,6 +14,19 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-08</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      |  | [Link]() |  |
+| 임성규      |  | [Link]() |  |
+| 김지혜      | Micro Frontend Architecture |  [Link](https://levelup.gitconnected.com/micro-frontend-architecture-b14b3a2c39a0)  | 마이크로 프론트엔드 아키텍처는 복잡한 웹 애플리케이션을 작고 독립적인 모듈로 분할하는 현대적인 개발 접근 방식 [추가 요약](https://kzh4295.tistory.com/45) |
+| 김지혜      | How to Build Websites That Load Before You Blink: Frontend Optimization Tips |  [Link](https://javascript.plainenglish.io/the-ultimate-guide-to-web-performance-essential-techniques-for-frontend-developers-c8638e5bf8d3)    | 웹 성능 최적화에 대한 포괄적인 가이드 |
+</details>
+
+
+<details>
+	
 <summary>2025-01-07</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
