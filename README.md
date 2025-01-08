@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규      |  | [Link]() |  |
-| 임성규      |  | [Link]() |  |
+| 임성규      | 7 Brand New APIs Every Developer Should Use in 2024 | [Link](https://medium.com/gitconnected/7-brand-new-apis-every-developer-should-use-in-2024-0d2a4a6b2839) | 7가지 2024년도에 새로운, 유용한 APIs |
+| 임성규      | Be an Engineer, not a Frameworker | [Link](https://medium.com/@johndanielraines/be-an-engineer-not-a-frameworker-c58fe28d0c88) | Frameworker: framework가 제공한는 형식을 활용해서 작성. Programmer: 많은양의 코드를 읽고 작성해봄으로써 frameworker -> programmer로 진화. 같은 결과를 내는 코드를 다양한 형식으로 작성 가능. Engineer : 변화와 안정성의 밸런스를 잘 맞추어 작성할 줄 암. |
 | 김지혜      | Micro Frontend Architecture |  [Link](https://levelup.gitconnected.com/micro-frontend-architecture-b14b3a2c39a0)  | 마이크로 프론트엔드 아키텍처는 복잡한 웹 애플리케이션을 작고 독립적인 모듈로 분할하는 현대적인 개발 접근 방식 [추가 요약](https://kzh4295.tistory.com/45) |
 | 김지혜      | How to Build Websites That Load Before You Blink: Frontend Optimization Tips |  [Link](https://javascript.plainenglish.io/the-ultimate-guide-to-web-performance-essential-techniques-for-frontend-developers-c8638e5bf8d3)    | 웹 성능 최적화에 대한 포괄적인 가이드 |
 </details>
