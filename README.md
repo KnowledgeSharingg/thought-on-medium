@@ -20,8 +20,8 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 임성규      | The big crypto opportunity in 2025 | [Link](https://medium.com/coinmonks/the-big-crypto-opportunity-in-2025-ea47c9f1e779) | Solana, ethureum환 경은 블록체인의 앱스토어이다. 다만 개발자를 제한하는게 상상력말고 곤 없는게 아이폰의 앱스토어와의 차이. |
 | 임성규      | Why BLove DApp is the Perfect Platform for a Common Man | [Link](https://blovedapp.medium.com/why-blove-dapp-is-the-perfect-platform-for-a-common-man-3a3740ec5d19) | BLove DApp. |
-| 김지혜픵      |  |  [Link]()  |  |
-| 김지혜픵     |  |  [Link]()    | |
+| 김지혜픵      | Backend for Frontend (BFF) Architecture  |  [Link](https://medium.com/gitconnected/backend-for-frontend-bff-architecture-64fa9f316a5a)  | BFF 아키텍처는 다양한 프론트엔드 인터페이스에 필요한 데이터를 정확히 제공하며, 성능과 유연성을 개선하는 데 효과적입니다. 다만 관리 복잡성이 증가할 수 있으므로 적절한 설계와 운영이 필요합니다. 멀티 플랫폼 환경이나 마이크로서비스 구조를 사용하는 경우 특히 유용한 접근 방식입니다 [추가요약](https://kzh4295.tistory.com/47) |
+| 김지혜픵     | ECMAScript 2024 (ES15): Unveiling the Latest JavaScript Features |  [Link](https://medium.com/javascript-in-plain-english/ecmascript-2024-es15-unveiling-the-latest-javascript-features-9186d72a10ae)    | ECMAScript 2024는 JavaScript 개발자들에게 더욱 강력하고 유연한 도구를 제공합니다. 새로운 기능들은 코드 작성의 효율성을 높이고, 복잡한 작업을 간소화하며, 최신 표준에 맞춘 개발 환경을 제공합니다.|
 </details>
 
 <details>
