@@ -14,6 +14,18 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-09</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | The big crypto opportunity in 2025 | [Link](https://medium.com/coinmonks/the-big-crypto-opportunity-in-2025-ea47c9f1e779) | Solana, ethureum환 경은 블록체인의 앱스토어이다. 다만 개발자를 제한하는게 상상력말고 곤 없는게 아이폰의 앱스토어와의 차이. |
+| 임성규      | Why BLove DApp is the Perfect Platform for a Common Man | [Link](https://blovedapp.medium.com/why-blove-dapp-is-the-perfect-platform-for-a-common-man-3a3740ec5d19) | BLove DApp. |
+| 김지혜픵      |  |  [Link]()  |  |
+| 김지혜픵     |  |  [Link]()    | |
+</details>
+
+<details>
+	
 <summary>2025-01-08</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
