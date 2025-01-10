@@ -14,6 +14,19 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-10</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규피잉 왜얼알유      | | [Link]() |  |
+| 임성규피잉     |  | [Link]() |  |
+| 김지혜픵      | (Sort of) Fixing autofocus in iOS Safari  |  [Link](https://medium.com/@brunn/autofocus-in-ios-safari-458215514a5f)  |  [추가요약](https://kzh4295.tistory.com/48) |
+| 김지혜픵     | 7 React Custom Hooks I Can’t Live Without in My Projects 🚀 |  [Link](https://medium.com/@letscodefuture/7-react-custom-hooks-i-cant-live-without-in-my-projects-2c06a02ecb2e)    | 실무에서 유용한 훅 7가지 소개 |
+</details>
+
+
+<details>
+	
 <summary>2025-01-09</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
