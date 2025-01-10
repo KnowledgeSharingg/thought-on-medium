@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규피잉 왜얼알유      | | [Link]() |  |
-| 임성규피잉     |  | [Link]() |  |
+| 임성규피잉 왜얼알유      | Memory Optimization Techniques You Must Know for Spring Boot Applications | [Link](https://medium.com/@rabinarayandev/memory-optimization-techniques-you-must-know-for-spring-boot-applications-d03c274f5d7e) | 연관관계에 있는 객체 지연로딩, JVM 최적화 설정(힙 최소 사이즈, 맥스 사이즈, G1 GC 사용여부, 클래스 메타데이터 최대 사이즈), 직렬화,역직렬화 로직 최적화, 컨넥션풀 설정 최적화를 통해 spring boot 서버에서 메모리 사용을 최작화 할 수 있고 이는 고성능 서버에서 중요한 작용을 할 것이다. |
+| 임성규피잉     | 5 Reasons You Should NOT Migrate to Kotlin Multiplatform | [Link](https://medium.com/@robert.jamison/5-reasons-you-should-not-migrate-to-kotlin-multiplatform-99fff82c6eb5) | 모바일 앱 코틀린 멀티플랫폼으로 마이그레이션 해서는 안되는 이유, 하지만 코틀린 멀티플랫폼을 사용해보지 않았다면 당장 사용해보아라! |
 | 김지혜픵      | (Sort of) Fixing autofocus in iOS Safari  |  [Link](https://medium.com/@brunn/autofocus-in-ios-safari-458215514a5f)  | ios에서는 정책상 사용자의 제스처없이 autoFocus를 지원하지 않는다고 합니다 [추가요약](https://kzh4295.tistory.com/48) |
 | 김지혜픵     | 7 React Custom Hooks I Can’t Live Without in My Projects 🚀 |  [Link](https://medium.com/@letscodefuture/7-react-custom-hooks-i-cant-live-without-in-my-projects-2c06a02ecb2e)    | 실무에서 유용한 훅 7가지 소개 |
 </details>
