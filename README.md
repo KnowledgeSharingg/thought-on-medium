@@ -20,7 +20,7 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 임성규피잉 왜얼알유      | | [Link]() |  |
 | 임성규피잉     |  | [Link]() |  |
-| 김지혜픵      | (Sort of) Fixing autofocus in iOS Safari  |  [Link](https://medium.com/@brunn/autofocus-in-ios-safari-458215514a5f)  |  [추가요약](https://kzh4295.tistory.com/48) |
+| 김지혜픵      | (Sort of) Fixing autofocus in iOS Safari  |  [Link](https://medium.com/@brunn/autofocus-in-ios-safari-458215514a5f)  | ios에서는 정책상 사용자의 제스처없이 autoFocus를 지원하지 않는다고 합니다 [추가요약](https://kzh4295.tistory.com/48) |
 | 김지혜픵     | 7 React Custom Hooks I Can’t Live Without in My Projects 🚀 |  [Link](https://medium.com/@letscodefuture/7-react-custom-hooks-i-cant-live-without-in-my-projects-2c06a02ecb2e)    | 실무에서 유용한 훅 7가지 소개 |
 </details>
 
