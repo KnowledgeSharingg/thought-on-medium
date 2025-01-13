@@ -14,6 +14,19 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-13</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | | [Link]() |  |
+| 임성규     |  | [Link]() |  |
+| 김지혜      |  The Popover API: Building Modals Has Never Been Easier |  [Link](https://medium.com/javascript-in-plain-english/building-modals-has-never-been-easier-fe59d56b8478)  | 팝업을 네이티브로 접근하는 api가 나왔다! [추가요약](https://kzh4295.tistory.com/49) |
+| 김지혜     | Mastering React’s Specialized Hooks: 7 Essential Hooks for Your Next Project |  [Link](https://medium.com/javascript-in-plain-english/mastering-reacts-specialized-hooks-7-essential-hooks-for-your-next-project-deec985aae20)    | 리액트의 특별한 훅 7가지 소개|
+</details>
+
+
+<details>
+	
 <summary>2025-01-10</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
