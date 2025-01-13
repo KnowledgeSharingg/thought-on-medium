@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규      | | [Link]() |  |
-| 임성규     |  | [Link]() |  |
+| 임성규      | Everyone is Wrong About the “S” in SOLID. | [Link](https://medium.com/stackademic/everyone-is-wrong-about-the-s-in-solid-e58404d83463) | 단일책임원칙(SRP)은 클래스가 하나의 목적을가지는것 이라기보다는(그렇다면 하나의 메소드만을 가져야할 것) 변경의 원인이 하나인 것. 따라서 내가 어떤 기능을 수정하려고 할 때 명확히 어떤 클래스를 수정해야할지 알겠다면 단일 책임원칙을 지켜서 클래스를 작성한것이다. |
+| 임성규     | Only 1% of developers are able to find the bug in this code in less than 60 seconds | [Link](https://medium.com/@arnoldgunter/only-1-of-developers-can-find-the-error-in-this-code-90a6ae84378f) | javascript에서 return 후 newLine에 객체반환하면 return undefined되고 이후에 {}는 별도의 block으로 본다. |
 | 김지혜      |  The Popover API: Building Modals Has Never Been Easier |  [Link](https://medium.com/javascript-in-plain-english/building-modals-has-never-been-easier-fe59d56b8478)  | 팝업을 네이티브로 접근하는 api가 나왔다! [추가요약](https://kzh4295.tistory.com/49) |
 | 김지혜     | Mastering React’s Specialized Hooks: 7 Essential Hooks for Your Next Project |  [Link](https://medium.com/javascript-in-plain-english/mastering-reacts-specialized-hooks-7-essential-hooks-for-your-next-project-deec985aae20)    | 리액트의 특별한 훅 7가지 소개|
 </details>
