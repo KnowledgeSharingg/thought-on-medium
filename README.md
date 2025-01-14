@@ -14,6 +14,18 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-14</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | Fired From Meta After 1 Week: Here’s All The Dirt I Got | [Link](https://medium.com/@sebastiancarlos/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65) | 메타에서의 해고글(회고글x) |
+| 임성규     | Notes to Myself on Software Engineering | [Link](https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d) | developer가 아닌, frameworker가 아닌 software engineer가 되고 싶다. |
+| 김지혜핑      | |  [Link]()  |  |
+| 김지혜핑은 PR을 할것인가?!    |  |  [Link]()    | |
+</details>
+
+<details>
+	
 <summary>2025-01-13</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
