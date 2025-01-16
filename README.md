@@ -44,7 +44,7 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 임성규      | Fired From Meta After 1 Week: Here’s All The Dirt I Got | [Link](https://medium.com/@sebastiancarlos/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65) | 메타에서의 해고글(회고글x) |
 | 임성규     | Notes to Myself on Software Engineering | [Link](https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d) | developer가 아닌, frameworker가 아닌 software engineer가 되고 싶다. |
-| 김지혜핑      | React Application Architecture: Part 2 |  [Link](https://levelup.gitconnected.com/react-application-architecture-part-2-28b35c293225)  | React 애플리케이션의 아키텍처와 레이어 설계에 대한 심층적인 가이드 1 [추가요약](https://kzh4295.tistory.com/50) |
+| 김지혜핑      | React Application Architecture: Part 2 |  [Link](https://levelup.gitconnected.com/react-application-architecture-part-2-28b35c293225)  | React 애플리케이션의 아키텍처와 레이어 설계에 대한 심층적인 가이드 2 [추가요약](https://kzh4295.tistory.com/50) |
 | 김지혜핑은 PR을 할것인가?!  -> 쏘쏘리...   | React Application Architecture: Part 1 |  [Link](https://medium.com/gitconnected/react-application-architecture-part-1-26c185c78401)    | React 애플리케이션의 아키텍처와 레이어 설계에 대한 심층적인 가이드 1 |
 </details>
 
