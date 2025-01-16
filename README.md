@@ -14,14 +14,26 @@
 ## 📝 리뷰 기록
 <details>
 	
-<summary>2025-01-14</summary>
+<summary>2025-01-16</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | | [Link]() |  |
+| 임성규     |  | [Link]() |  |
+| 김지혜      |  4 Best Rate Limiting Solutions for Next.js Apps (2025) |  [Link](https://medium.com/startup-nextjs/4-best-rate-limiting-solutions-for-next-js-apps-2025-47fb1bd640a7)  | Next.js 애플리케이션에서 사용할 수 있는 4가지 주요 Rate Limiting 솔루션에 대한 요약 [추가요약](https://kzh4295.tistory.com/52) |
+| 김지혜     | Zustand + React Query: A New Approach to State Management |  [Link](https://medium.com/@freeyeon96/zustand-react-query-new-state-management-7aad6090af56)    | Zustand와 React Query를 활용한 상태 관리 |
+</details>
+
+<details>
+	
+<summary>2025-01-15</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
 | 임성규      | 16 Open-Source Projects to Improve Your Developer Workflow 👨‍💻🔥 | [Link](https://blog.stackademic.com/16-open-source-projects-to-improve-your-developer-workflow-fdd3b8c16e57) | 오픈소스 소개. |
 | 임성규     | Python 3.14 Released — Top 5 Features You Must Know | [Link](https://blog.varunsingh.in/python-3-14-released-top-5-features-you-must-know-ad2a966e7a64) | python 3.14 review. |
-| 김지혜 | |  [Link]()  |  |
-| 김지혜 |  |  [Link]()    | |
+| 김지혜 | Best Practices for Optimizing React Performance |  [Link](https://medium.com/@rashmipatil24/optimizing-react-performance-1b236bb24e0c)  | React 성능 최적화의 중요성 [추가요약](https://kzh4295.tistory.com/51) |
+| 김지혜 | 70% Interviewer will ask these 5 React.js question [ 2025 ] |  [Link](https://medium.com/career-drill/70-interviewer-will-ask-these-5-react-js-question-2025-d90331e146d6)    | React.js 개발자 면접에서 자주 나오는 5가지 주요 질문과 답변 |
 </details>
 
 <details>
@@ -32,8 +44,8 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 임성규      | Fired From Meta After 1 Week: Here’s All The Dirt I Got | [Link](https://medium.com/@sebastiancarlos/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65) | 메타에서의 해고글(회고글x) |
 | 임성규     | Notes to Myself on Software Engineering | [Link](https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d) | developer가 아닌, frameworker가 아닌 software engineer가 되고 싶다. |
-| 김지혜핑      | |  [Link]()  |  |
-| 김지혜핑은 PR을 할것인가?!    |  |  [Link]()    | |
+| 김지혜핑      | React Application Architecture: Part 2 |  [Link](https://levelup.gitconnected.com/react-application-architecture-part-2-28b35c293225)  | React 애플리케이션의 아키텍처와 레이어 설계에 대한 심층적인 가이드 1 [추가요약](https://kzh4295.tistory.com/50) |
+| 김지혜핑은 PR을 할것인가?!  -> 쏘쏘리...   | React Application Architecture: Part 1 |  [Link](https://medium.com/gitconnected/react-application-architecture-part-1-26c185c78401)    | React 애플리케이션의 아키텍처와 레이어 설계에 대한 심층적인 가이드 1 |
 </details>
 
 <details>
