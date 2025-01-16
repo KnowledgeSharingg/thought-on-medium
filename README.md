@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규      | | [Link]() |  |
-| 임성규     |  | [Link]() |  |
+| 임성규      | 4 Paradoxes That Will Expand Your Thinking | [Link](https://medium.com/illumination/4-paradoxes-that-will-expand-your-thinking-7cce081bb766) | 사고를 확장시켜줄 4가지 역설. ex) '이 문장은 거짓이다'는 참일까요 거짓일까요 ? |
+| 임성규     | Microservices: The Million-Dollar Mistake Your Company is Making | [Link](https://medium.com/gitconnected/microservices-the-million-dollar-mistake-your-company-is-making-c50eb428f732) | 마이크로서비스 아키텍처를 도입할 때 주의해야할 점. |
 | 김지혜      |  4 Best Rate Limiting Solutions for Next.js Apps (2025) |  [Link](https://medium.com/startup-nextjs/4-best-rate-limiting-solutions-for-next-js-apps-2025-47fb1bd640a7)  | Next.js 애플리케이션에서 사용할 수 있는 4가지 주요 Rate Limiting 솔루션에 대한 요약 [추가요약](https://kzh4295.tistory.com/52) |
 | 김지혜     | Zustand + React Query: A New Approach to State Management |  [Link](https://medium.com/@freeyeon96/zustand-react-query-new-state-management-7aad6090af56)    | Zustand와 React Query를 활용한 상태 관리 |
 </details>
