@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규      |  | [Link]() |  |
-| 임성규     |  | [Link]() |  |
+| 임성규      | How to Become a Strong Software Architect | [Link](https://medium.com/@azeynalli1990/how-to-become-a-strong-software-architect-c36e144fe2fd) | 단단한 소프트웨어 아키텍쳐 설계를는 시니어 개발자의 역량이며 이를 위한 커리큘럼! |
+| 임성규     | Microservices Architectures: The SAGA Pattern | [Link](https://medium.com/stackademic/microservices-architectures-the-saga-pattern-e39e1c159718) | saga pattern - 분산 시스템에서 분산된 트랜잭션들을 공통적으로 처리하는 방법. compensating transaction을 활용하여 실패시 롤백시키며 이는 물리적 롤백이 아닌 롤백한것처럼 보이는 로직으로 구현한 방법이다. 비교할만한 방법으로 2PC 패턴이 있으며 이 패턴은 prepare 단계에서 연관된 모든 db에 락을 걸고 commit단계에서 성공시 commit, 실패시 모두 rollback시키며 서버간 강결합을 유도해 msa 환경의 취지에 어긋난다는 단점이 있는 것 같다. |
 | 김지혜      |   |  [Link]()  |  |
 | 김지혜     |  |  [Link]()    |  |
 </details>
