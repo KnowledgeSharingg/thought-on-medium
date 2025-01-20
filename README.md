@@ -14,14 +14,26 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-20</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | | [Link]() |  |
+| 임성규     |  | [Link]() |  |
+| 김지혜      | (번역) 예제와 함께하는 유스 케이스(Use Case) 테스팅 튜토리얼  |  [Link](https://medium.com/@junghan92/%EB%B2%88%EC%97%AD-%EC%98%88%EC%A0%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9C%A0%EC%8A%A4-%EC%BC%80%EC%9D%B4%EC%8A%A4-use-case-%ED%85%8C%EC%8A%A4%ED%8C%85-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-60ee174fe1b7)  | 유스케이스 테스팅의 특징 및 중요성 [추가요약](https://kzh4295.tistory.com/54) |
+| 김지혜     | (번역) 상태 전이(State transition) 테스팅 기법 |  [Link](https://medium.com/@junghan92/%EB%B2%88%EC%97%AD-%EC%83%81%ED%83%9C-%EC%A0%84%EC%9D%B4-state-transition-%ED%85%8C%EC%8A%A4%ED%8C%85-%EA%B8%B0%EB%B2%95-ec65c3f00286)    | 상태 전이 테스팅 기법|
+</details>
+
+<details>
+	
 <summary>2025-01-17</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
 | 임성규      | How to Become a Strong Software Architect | [Link](https://medium.com/@azeynalli1990/how-to-become-a-strong-software-architect-c36e144fe2fd) | 단단한 소프트웨어 아키텍쳐 설계를는 시니어 개발자의 역량이며 이를 위한 커리큘럼! |
 | 임성규     | Microservices Architectures: The SAGA Pattern | [Link](https://medium.com/stackademic/microservices-architectures-the-saga-pattern-e39e1c159718) | saga pattern - 분산 시스템에서 분산된 트랜잭션들을 공통적으로 처리하는 방법. compensating transaction을 활용하여 실패시 롤백시키며 이는 물리적 롤백이 아닌 롤백한것처럼 보이는 로직으로 구현한 방법이다. 비교할만한 방법으로 2PC 패턴이 있으며 이 패턴은 prepare 단계에서 연관된 모든 db에 락을 걸고 commit단계에서 성공시 commit, 실패시 모두 rollback시키며 서버간 강결합을 유도해 msa 환경의 취지에 어긋난다는 단점이 있는 것 같다. |
-| 김지혜      |   |  [Link]()  |  |
-| 김지혜     |  |  [Link]()    |  |
+| 김지혜      |  Principles of Simplicity in Front-End Architecture |  [Link](https://medium.com/itnext/principles-of-simplicity-in-front-end-architecture-7bc92dcea788)  | 프런트 아키텍처 고려 요소 [추가요약](https://kzh4295.tistory.com/53) |
+| 김지혜     | 프런트엔드 아키텍처 시각화하기 |  [Link](https://medium.com/@junghan92/%EB%B2%88%EC%97%AD-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%98%EA%B8%B0-3ae9a3dd8e67)    | C4 모델을 이용한 아키텍처 시각화 |
 </details>
 
 <details>
