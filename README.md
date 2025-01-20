@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규      | | [Link]() |  |
-| 임성규     |  | [Link]() |  |
+| 임성규      | S.O.L.I.D Principles Explained With Code | [Link](https://medium.com/algomaster-io/s-o-l-i-d-principles-explained-with-code-7118dbbe3dd6) | SOLID  |
+| 임성규     | The 20 Essential Principles of Software Development: LoD, SoC, SOLID, and Beyond. | [Link](https://medium.com/gitconnected/the-20-essential-principles-of-software-development-lod-soc-solid-and-beyond-7a39a98b685d) | 20 필수 개발 원칙 |
 | 김지혜      | (번역) 예제와 함께하는 유스 케이스(Use Case) 테스팅 튜토리얼  |  [Link](https://medium.com/@junghan92/%EB%B2%88%EC%97%AD-%EC%98%88%EC%A0%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9C%A0%EC%8A%A4-%EC%BC%80%EC%9D%B4%EC%8A%A4-use-case-%ED%85%8C%EC%8A%A4%ED%8C%85-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-60ee174fe1b7)  | 유스케이스 테스팅의 특징 및 중요성 [추가요약](https://kzh4295.tistory.com/54) |
 | 김지혜     | (번역) 상태 전이(State transition) 테스팅 기법 |  [Link](https://medium.com/@junghan92/%EB%B2%88%EC%97%AD-%EC%83%81%ED%83%9C-%EC%A0%84%EC%9D%B4-state-transition-%ED%85%8C%EC%8A%A4%ED%8C%85-%EA%B8%B0%EB%B2%95-ec65c3f00286)    | 상태 전이 테스팅 기법|
 </details>
