@@ -14,6 +14,19 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-21</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | | [Link]() |  |
+| 임성규     |  | [Link]() |  |
+| 김지혜      |  Mastering Next.js App Router: Best Practices for Structuring Your Application |  [Link](https://medium.com/@thiraphat-ps-dev/mastering-next-js-app-router-best-practices-for-structuring-your-application-3f8cf0c76580)  | Next.js의 주요 기능 및 구조 [추가요약](https://kzh4295.tistory.com/55) |
+| 김지혜     | 3단계로 완성하는 유연한 디자인 시스템 |  [Link](https://techblog.lycorp.co.jp/ko/a-flexible-design-system-using-3-tier-tokens?ref=codenary)    | Figma, Storybook과 이 둘을 연계하는 토큰으로 구축하는 디자인 시스템|
+</details>
+
+
+<details>
+	
 <summary>2025-01-20</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
