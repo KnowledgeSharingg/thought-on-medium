@@ -18,6 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
+| 김명훈       | Incredible performance increase in Spring Boot 3 applications with CDS | [Link](https://medium.com/@halilural5/incredible-performance-increase-in-spring-boot-applications-with-cds-5022ff81948f) | Java21 & SpringBoot3의 CDS 기능으로 메모리 절약 가능 |
+| 김명훈       | Stop using if-else statements in Java | [Link](https://medium.com/javarevisited/stop-using-if-else-statements-in-java-57234e13bf9d) | 올바르지 못한 예제. 댓글처럼 enum 또는 switch를 사용하는 것이 더 좋아 보임. |
 | 임성규      | Java: Event Driven architecture | [Link](https://medium.com/@alxkm/java-event-driven-architecture-dc456d324ba5) |  edd |
 | 임성규     | 7 Most Commonly Used Design Patterns in Work | [Link](https://levelup.gitconnected.com/7-most-commonly-used-design-patterns-in-work-b0cb1fd797c5) | 실무에 자주쓰이는 디자인 패턴들 간단 소개. |
 | 김지혜      | 리액트 19 업그레이드 가이드 |  [Link](https://velog.io/@eunbinn/react-19-upgrade-guide)  | 리액트 19 업그레이드 특징 [추가요약](https://kzh4295.tistory.com/57) |
