@@ -14,6 +14,33 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-23</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | | [Link]() |  |
+| 임성규     |  | [Link]() |  |
+| 김지혜      | 리액트 19 업그레이드 가이드 |  [Link](https://velog.io/@eunbinn/react-19-upgrade-guide)  | 리액트 19 업그레이드 특징 [추가요약](https://kzh4295.tistory.com/57) |
+| 김지혜     | 레고 인터페이스 패널로 알아보는 UX |  [Link](https://velog.io/@typo/the-ux-of-lego-interface-panels)    | 조직에 알맞는 인터페이스를 활용해 UX 경험을 개선하자 |
+</details>
+
+<details>
+	
+<summary>2025-01-22</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | | [Link]() |  |
+| 임성규     |  | [Link]() |  |
+| 김지혜      | 리액트에서 INP를 효과적으로 최적화하는 5가지 팁  |  [Link](https://calendar.perfplanet.com/2024/5-tips-to-effectively-optimize-inp-in-react/)  | 돔 크기 조절 및 렌더링 시 최적화 팁 [추가요약](https://kzh4295.tistory.com/56) |
+| 김지혜     | 실제 코드에서 리액트 컴파일러의 성능 |  [Link](https://www.developerway.com/posts/how-react-compiler-performs-on-real-code)    | 리액트 컴파일러의 특징 및 기존 코드 비교 |
+</details>
+
+
+
+
+<details>
+	
 <summary>2025-01-21</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
