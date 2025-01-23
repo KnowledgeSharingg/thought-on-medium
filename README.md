@@ -19,7 +19,7 @@
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
 | 임성규      | | [Link]() |  |
-| 임성규     |  | [Link]() |  |
+| 임성규     | 7 Most Commonly Used Design Patterns in Work | [Link](https://levelup.gitconnected.com/7-most-commonly-used-design-patterns-in-work-b0cb1fd797c5) | 실무에 자주쓰이는 디자인 패턴들 간단 소개. |
 | 김지혜      | 리액트 19 업그레이드 가이드 |  [Link](https://velog.io/@eunbinn/react-19-upgrade-guide)  | 리액트 19 업그레이드 특징 [추가요약](https://kzh4295.tistory.com/57) |
 | 김지혜     | 레고 인터페이스 패널로 알아보는 UX |  [Link](https://velog.io/@typo/the-ux-of-lego-interface-panels)    | 조직에 알맞는 인터페이스를 활용해 UX 경험을 개선하자 |
 </details>
