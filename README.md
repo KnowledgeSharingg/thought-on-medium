@@ -14,6 +14,19 @@
 ## 📝 리뷰 기록
 <details>
 	
+<summary>2025-01-10</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | | [Link]() |  |
+| 임성규     |  | [Link]() |  |
+| 김지혜      |  Day 1: Can You Solve This JavaScript Challenge? |  [Link](https://medium.com/javascript-in-plain-english/day-1-can-you-solve-this-javascript-challenge-13d78000534e)  | JS 루프의 동작방법 [추가요약](https://kzh4295.tistory.com/60) |
+| 김지혜     | Next.js Rewrites and Redirects: A Deep Dive |  [Link](https://medium.com/front-end-world/next-js-rewrites-and-redirects-a-deep-dive-03c17da2c085)    | Rewrites와 Redirects의 역할 |
+</details>
+
+
+<details>
+	
 <summary>2025-02-03</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
