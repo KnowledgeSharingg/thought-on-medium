@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규      | | [Link]() | |
-| 임성규     |  | [Link]() | |
+| 임성규      | If You Can Answer These 7 Questions Correctly You’re Decent at JavaScript | [Link](https://levelup.gitconnected.com/if-you-can-answer-these-7-questions-correctly-youre-decent-at-javascript-71e0ce9d7ac9) | javascript 언어 이해도에 대한 흥미로운 질문 7가지 |
+| 임성규     | 4 Microservices Caching Patterns at Wix | [Link](https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f) | Wix에서 사용하는 4가지 caching pattern |
 | 김지혜      | How to tackle Docker and Kubernetes” for Frontend, tutorial included |  [Link](https://medium.com/@rickmint/how-to-tackle-docker-and-kubernetes-for-frontend-tutorial-included-87e8b1d7d5f8)  | Docker와 Kubernetes에 대한 프런트엔드 개발자 가이드 요약 [추가요약](https://kzh4295.tistory.com/59) |
 | 김지혜     | Kubernetes Deployment: Connect Your Front End to Your Back End With Nginx |  [Link](https://medium.com/better-programming/kubernetes-deployment-connect-your-front-end-to-your-back-end-with-nginx-7e4e7cfef177)    | 쿠버네티스 배포: Nginx를 사용해 프론트엔드와 백엔드 연결하기 |
 </details>
