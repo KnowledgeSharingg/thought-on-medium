@@ -18,8 +18,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규      | | [Link]() |  |
-| 임성규     |  | [Link]() |  |
+| 임성규      | Can Node.js Really Handle Millions of Users? | [Link](https://javascript.plainenglish.io/can-node-js-really-handle-millions-of-users-e57415e4fb86) | absolutley. event 기반, nonblocking i/o 기반의 동작방식은 web traffic과 같은 i/o -bound tasks에 아주 적합하다. |
+| 임성규     | Microservices with CQRS and Event Sourcing in TypeScript with NestJS | [Link](https://medium.com/gitconnected/microservices-with-cqrs-in-typescript-and-nestjs-5a8af0a56c3a) | cqrs, evevtsoursing, ddd example. |
 | 김지혜      |  Day 1: Can You Solve This JavaScript Challenge? |  [Link](https://medium.com/javascript-in-plain-english/day-1-can-you-solve-this-javascript-challenge-13d78000534e)  | JS 루프의 동작방법 [추가요약](https://kzh4295.tistory.com/60) |
 | 김지혜     | Next.js Rewrites and Redirects: A Deep Dive |  [Link](https://medium.com/front-end-world/next-js-rewrites-and-redirects-a-deep-dive-03c17da2c085)    | Rewrites와 Redirects의 역할 |
 </details>
