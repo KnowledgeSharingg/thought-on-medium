@@ -2,7 +2,7 @@
 
 ## 🗓️ 활동 개요
 	•	목표: 매일 Medium 기사 2개 읽고, 각자 한 줄 평을 남깁니다.
-	•	참여 인원: 김지혜, 임성규
+	•	참여 인원: 김지혜, 임성규, 김명훈
 	•	활동 시작일: 2024-01-03
 
 ## 🌟 규칙
@@ -14,13 +14,13 @@
 ## 📝 리뷰 기록
 
 <details>
-	<summary>2025-01-22</summary>
+	
+<summary>2025-02-05</summary>
 
-| **참여자** | **기사 제목**                                             | **링크**                                                                                  | **한 줄 평**                                                                                 |
-|------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 김명훈     | [Book Reviews] Mastering the Java Virtual Machine         | [Link](https://medium.com/@tpbabparn/book-reviews-mastering-the-java-virtual-machine-198caaa7e83b) | Mastering the Java Virtual Machine 에 대한 리뷰 자바에 대한 전체적인 구조 및 jvm 등 짧은 리뷰 |
-| 김명훈     | 9 Patterns and Coding Styles That Impact Java GC Performance | [Link](https://medium.com/@hynk/9-common-patterns-and-coding-style-that-impacts-java-gc-performance-6d4736298c1a) | Java GC의 최적화를 위한 코드스타일을 말하고 있지만 데이터를 수정하기보다 불변객체를 다루는 스타일이 비즈니스의 안정성을 가져오는데 이런 부분은 어떻게 할지 궁금해진다 |
-
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 임성규      | The 10 Lifestyle Habits That Have Kept My Body Fat Low for 4 Years | [Link](https://medium.com/in-fitness-and-in-health/the-10-lifestyle-habits-that-have-kept-my-body-fat-low-for-4-years-33581bbbd8ed) | Way of maintaining low fat. |
+| 임성규     | Deep Dive into CQRS — A Great Microservices Pattern | [Link](https://levelup.gitconnected.com/what-is-cqrs-8ddd74ca05bb) | cqrs. |
 </details>
 
 <details>
@@ -83,6 +83,8 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
+| 김명훈     | [Book Reviews] Mastering the Java Virtual Machine         | [Link](https://medium.com/@tpbabparn/book-reviews-mastering-the-java-virtual-machine-198caaa7e83b) | Mastering the Java Virtual Machine 에 대한 리뷰 자바에 대한 전체적인 구조 및 jvm 등 짧은 리뷰 |
+| 김명훈     | 9 Patterns and Coding Styles That Impact Java GC Performance | [Link](https://medium.com/@hynk/9-common-patterns-and-coding-style-that-impacts-java-gc-performance-6d4736298c1a) | Java GC의 최적화를 위한 코드스타일을 말하고 있지만 데이터를 수정하기보다 불변객체를 다루는 스타일이 비즈니스의 안정성을 가져오는데 이런 부분은 어떻게 할지 궁금해진다 |
 | 임성규      | | [Link]() |  |
 | 임성규     |  | [Link]() |  |
 | 김지혜      | 리액트에서 INP를 효과적으로 최적화하는 5가지 팁  |  [Link](https://calendar.perfplanet.com/2024/5-tips-to-effectively-optimize-inp-in-react/)  | 돔 크기 조절 및 렌더링 시 최적화 팁 [추가요약](https://kzh4295.tistory.com/56) |
