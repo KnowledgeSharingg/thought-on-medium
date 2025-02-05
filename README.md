@@ -50,6 +50,21 @@
 
 <details>
 	
+<summary>2025-01-24</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 김명훈      | Java Spring Boot vs. Go (Golang) | [Link](https://medium.com/@bayramblog/java-spring-boot-vs-go-golang-aa5b0f010ff1)  | 전 세계가 인정하는 SpringBoot의 막강함, 그러나 역서 성능은 Go, 그러나 무지막지하게 막강한 성능이 굳이 필요하진 않다고 생각함 |
+| 김명훈      | Interview: Why is Redis so fast even though it is single-threaded? Please state your insights on Redis’ thread model | [Link](https://medium.com/javarevisited/interview-why-is-redis-so-fast-even-though-it-is-single-threaded-bfe663dabe08) | 레디스에 대해 |
+| 임성규      |  |  |  |
+| 임성규      |  |  |  |
+| 김지혜      |  |  |  |
+| 김지혜      |  |  |  |
+</details>
+
+
+<details>
+	
 <summary>2025-01-23</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
