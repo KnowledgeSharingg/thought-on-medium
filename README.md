@@ -21,6 +21,8 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 김지혜      | This Free React Library Will Blow Your Mind 😮— A Total Game-Changer!  |  [Link](https://medium.com/@letscodefuture/this-free-react-library-will-blow-your-mind-a-total-game-changer-15054bee0acb)  | 최소한의 종속성으로 다양한 애니메이션 컴포넌트 제공 라이브러리 소개지만 디테일하게 스타일이 잡혀있어서 팀프로젝트 적용은 힘들겠다 [추가요약](https://kzh4295.tistory.com/62) |
 | 김지혜     | 12 Awesome Next.js Libraries to Supercharge Your Development! |  [Link](https://medium.com/lets-code-future/12-awesome-next-js-libraries-to-supercharge-your-development-38632f6ae6f3)    | 프론트에 새로 적용할 기술들을 탐색중이었는데 공통적으로 언급되는 zod, shadCdn가 적용해보기 적당할 거 같다|
+| 임성규      | Stop Using .d.ts Files in TypeScript | [Link](https://medium.com/gitconnected/stop-using-d-ts-files-in-typescript-da01e4a71b26) | .d.ts(declaration file, not implementation file)을 직접 생성해서 쓰지마라. 자동생성은 ok |
+| 임성규     | Async isn’t Asynchronous, You Are Being Lied To | [Link](https://medium.com/@impure/async-isnt-asynchronous-you-are-being-lied-to-e786cd8fbf30) | 진정한 비동기가아닌 블로킹 방지 |
 </details>
 
 <details>
@@ -29,7 +31,7 @@
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
 |------------|--------------------------------|---------------|------------------------------------|
-| 임성규      | The 10 Lifestyle Habits That Have Kept My Body Fat Low for 4 Years | [Link](https://medium.com/in-fitness-and-in-health/the-10-lifestyle-habits-that-have-kept-my-body-fat-low-for-4-years-33581bbbd8ed) | Way of maintaining low fat. |
+| 임성규      | The 10 Lifestyle Habits That Have Kept My Body Fat Low for 4 Years | [Link](https://medium.com/gitconnected/stop-using-d-ts-files-in-typescript-da01e4a71b26) | Way of maintaining low fat. |
 | 임성규     | Deep Dive into CQRS — A Great Microservices Pattern | [Link](https://levelup.gitconnected.com/what-is-cqrs-8ddd74ca05bb) | cqrs. |
 | 김지혜      | Top 10 Best React Libraries You Should Try in 2025  |  [Link](https://medium.com/lets-code-future/top-10-best-react-libraries-you-should-try-in-2025-3bb0db2ecffa)  | 리액트와 연계된 라이브러리 10개 추천 [추가요약](https://kzh4295.tistory.com/61) |
 | 김지혜     | Top 16+ Modern React Libraries To Supercharge Your Next Big Project |  [Link](https://medium.com/@letscodefuture/top-16-modern-react-libraries-to-supercharge-your-next-big-project-78e912e95014)    | 리액트와 연계된 라이브러리 16개 추천 |
