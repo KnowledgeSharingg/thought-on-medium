@@ -21,6 +21,8 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 임성규      | The 10 Lifestyle Habits That Have Kept My Body Fat Low for 4 Years | [Link](https://medium.com/in-fitness-and-in-health/the-10-lifestyle-habits-that-have-kept-my-body-fat-low-for-4-years-33581bbbd8ed) | Way of maintaining low fat. |
 | 임성규     | Deep Dive into CQRS — A Great Microservices Pattern | [Link](https://levelup.gitconnected.com/what-is-cqrs-8ddd74ca05bb) | cqrs. |
+| 김지혜      | Top 10 Best React Libraries You Should Try in 2025  |  [Link](https://medium.com/lets-code-future/top-10-best-react-libraries-you-should-try-in-2025-3bb0db2ecffa)  | 리액트와 연계된 라이브러리 10개 추천 [추가요약](https://kzh4295.tistory.com/61) |
+| 김지혜     | Top 16+ Modern React Libraries To Supercharge Your Next Big Project |  [Link](https://medium.com/@letscodefuture/top-16-modern-react-libraries-to-supercharge-your-next-big-project-78e912e95014)    | 리액트와 연계된 라이브러리 16개 추천 |
 </details>
 
 <details>
