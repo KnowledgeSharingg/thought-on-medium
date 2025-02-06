@@ -15,6 +15,16 @@
 
 <details>
 	
+<summary>2025-01-10</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 김지혜      | This Free React Library Will Blow Your Mind 😮— A Total Game-Changer!  |  [Link](https://medium.com/@letscodefuture/this-free-react-library-will-blow-your-mind-a-total-game-changer-15054bee0acb)  | 최소한의 종속성으로 다양한 애니메이션 컴포넌트 제공 라이브러리 소개지만 디테일하게 스타일이 잡혀있어서 팀프로젝트 적용은 힘들겠다 [추가요약](https://kzh4295.tistory.com/62) |
+| 김지혜     | 12 Awesome Next.js Libraries to Supercharge Your Development! |  [Link](https://medium.com/lets-code-future/12-awesome-next-js-libraries-to-supercharge-your-development-38632f6ae6f3)    | 프론트에 새로 적용할 기술들을 탐색중이었는데 공통적으로 언급되는 zod, shadCdn가 적용해보기 적당할 거 같다|
+</details>
+
+<details>
+	
 <summary>2025-02-05</summary>
 
 | **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
