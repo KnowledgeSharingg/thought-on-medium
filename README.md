@@ -12,6 +12,17 @@
 	4.	주 1회 모든 참여자 리뷰 점검 후 토론 가능.
 
 ## 📝 리뷰 기록
+<details>
+	
+<summary>2025-02-11</summary>
+
+| **참여자** | **기사 제목**                  | **링크**      | **한 줄 평**                       |
+|------------|--------------------------------|---------------|------------------------------------|
+| 김지혜      |  Storybook | React & Typescript |  [Link](https://medium.com/@xiaominzhu/storybook-react-typescript-ac667cb54eed)  | next와 ts를 스토리북과 연동하는 방법 소개 [추가요약](https://kzh4295.tistory.com/63) |
+| 김지혜     | Interaction testing in Storybook  |  [Link](https://medium.com/storybookjs/interaction-testing-in-storybook-32935c657b39)    | 스토리북의 기본 사용법 및 필요성 강조 |
+|      | | [Link]() |  |
+|      | | [Link]() |  |
+</details>
 
 <details>
 	
