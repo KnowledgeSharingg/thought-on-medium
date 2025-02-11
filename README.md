@@ -20,8 +20,10 @@
 |------------|--------------------------------|---------------|------------------------------------|
 | 김지혜      |  Storybook, React & Typescript |  [Link](https://medium.com/@xiaominzhu/storybook-react-typescript-ac667cb54eed)  | next와 ts를 스토리북과 연동하는 방법 소개 [추가요약](https://kzh4295.tistory.com/63) |
 | 김지혜     | Interaction testing in Storybook  |  [Link](https://medium.com/storybookjs/interaction-testing-in-storybook-32935c657b39)    | 스토리북의 기본 사용법 및 필요성 강조 |
-|      | | [Link]() |  |
-|      | | [Link]() |  |
+|    임성규  | Building Better Software: The Role of Domain Storytelling in DDD
+ | [Link](https://medium.com/@roluquec/building-better-software-the-role-of-domain-storytelling-in-ddd-95091a93d89b) | domain storytelling.  |
+|   임성규   | My Favourite Software Architecture Patterns
+ | [Link](https://levelup.gitconnected.com/my-favourite-software-architecture-patterns-0e57073b4be1?source=email-14d4850f1c90-1739208079943-digest.reader-5517fd7b58a6-0e57073b4be1----3-102------------------322f4e49_f7e7_4e3a_81b2_f761b38e5791-1) | software architecture best practice. |
 </details>
 
 <details>
